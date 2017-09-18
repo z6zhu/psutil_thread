@@ -1,0 +1,10 @@
+yum install python-devel
+
+yum install gcc
+
+tar -zxvf psutil-5.2.2.tar.gz 
+
+cd psutil-5.2.2
+
+python setup.py install
+
